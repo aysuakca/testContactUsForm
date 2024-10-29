@@ -34,7 +34,7 @@ public class testContactUsForm {
         actions.click(getInTouchName)
                 .sendKeys("Aysu")
                 .sendKeys(Keys.TAB)
-                .sendKeys("aysukilic99@gmail.com")
+                .sendKeys("aysu@gmail.com")
                 .sendKeys(Keys.TAB)
                 .sendKeys("Trying Test Automation")
                 .sendKeys(Keys.TAB)
